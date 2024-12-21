@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AndroidCA_backend.props" />
+</Project>
